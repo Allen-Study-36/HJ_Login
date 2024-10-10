@@ -14,7 +14,7 @@
 		2616BB802CA1401C00354AA7 /* Exceptions for "Login" folder in "Login" target */ = {
 			isa = PBXFileSystemSynchronizedBuildFileExceptionSet;
 			membershipExceptions = (
-				Info.plist,
+				Base/Info.plist,
 			);
 			target = 2616BB6D2CA1401A00354AA7 /* Login */;
 		};
